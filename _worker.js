@@ -22,12 +22,12 @@ let addressesnotls = [
 	'www.who.int:8880#官方优选域名',
 ];
 
-// 设置优选noTLS地址api接口
+ 设置优选noTLS地址api接口
 let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 15;//速度下限
+let DLS = 18;//速度下限
 let addressescsv = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
